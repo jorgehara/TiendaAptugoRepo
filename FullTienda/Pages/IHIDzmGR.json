@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "P0linmaK",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IHIDzmGR",
+  "value": "text",
+  "values": {
+    "Content": "I'm your Aptugo application"
+  }
+}

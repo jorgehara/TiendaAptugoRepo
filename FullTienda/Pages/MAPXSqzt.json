@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Lang Strings Exist?",
+  "open": false,
+  "parent": "ppbSSOh6",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "MAPXSqzt",
+  "value": "condition",
+  "values": {
+    "condition": "typeof langStrings !== 'undefined'",
+    "useInCode": true
+  }
+}

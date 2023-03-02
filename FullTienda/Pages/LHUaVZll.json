@@ -1,0 +1,15 @@
+{
+  "cascades": true,
+  "collapseStatus": "collapse",
+  "name": "sidebar",
+  "parent": "OgbBOk4h",
+  "path": "sidebar.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "LHUaVZll",
+  "value": "sidebar",
+  "values": {
+    "colorSchema": "Greens",
+    "open": "true"
+  }
+}

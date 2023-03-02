@@ -1,0 +1,16 @@
+{
+  "cascades": true,
+  "collapseStatus": "expand",
+  "name": "Body",
+  "parent": "uzHWpD7T",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "OgbBOk4h",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.pages"
+    ]
+  }
+}

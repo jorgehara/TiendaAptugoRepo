@@ -1,0 +1,34 @@
+{
+  "_id": "dPtwgSXOT92dgaNp",
+  "createdAt": 1677791099233,
+  "modifiedAt": 1677791324684,
+  "settings": {
+    "name": "FullTienda",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "FullTienda",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://fulltiendalite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/fulltienda"
+    },
+    "stagging": {
+      "apiURL": "https://fulltiendalite.aptugo.app",
+      "type": "Local",
+      "folder": "FullTienda_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://fulltiendalite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/fulltienda"
+    },
+    "production": {
+      "apiURL": "https://fulltiendalite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "FullTienda",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://fulltiendalite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/fulltienda"
+    }
+  }
+}
