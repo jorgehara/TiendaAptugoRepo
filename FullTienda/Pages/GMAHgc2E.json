@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "akD2VPkJ",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "GMAHgc2E",
+  "value": "text",
+  "values": {
+    "Content": "holaaaaaaaaaaaaaa"
+  }
+}
