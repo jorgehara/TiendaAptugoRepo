@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "Holamundo",
+  "parent": "Fm7AOgvS",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "sIyV2CUK",
+  "value": "text",
+  "values": {}
+}
