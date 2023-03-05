@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "image",
+  "parent": "9NcpL1ZA",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TTsTARuE",
+  "value": "image",
+  "values": {
+    "width": "45",
+    "height": "45",
+    "useAsset": "9XARGx8r"
+  }
+}

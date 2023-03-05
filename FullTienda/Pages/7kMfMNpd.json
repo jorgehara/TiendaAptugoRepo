@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "uncontrolledInput",
+  "parent": "8cXNuvvl",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7kMfMNpd",
+  "value": "uncontrolledInput",
+  "values": {
+    "label": "New Password",
+    "variant": "outlined",
+    "margin": "normal",
+    "type": "password",
+    "onChange": "(e) => { setuserData({ ...userData, Password: e.target.value}) }",
+    "value": "{userData.Password}"
+  }
+}

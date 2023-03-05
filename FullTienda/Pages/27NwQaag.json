@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "code",
+  "parent": "TcxfZ910",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "27NwQaag",
+  "value": "code",
+  "values": {
+    "code": "if (props.match.params.nonce) {\n      AuthService.checkNonce(props.match.params.nonce, props.match.params.email).then(\n        (res) => {\n          authHeaders()\n          setuserData({ ...userData, _id: res })\n        },\n        (error) => {\n          console.error(error)\n        }\n      )\n    }"
+  }
+}

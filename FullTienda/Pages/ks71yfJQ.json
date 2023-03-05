@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "With Nonce",
+  "parent": "zKiDliRh",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ks71yfJQ",
+  "value": "condition",
+  "values": {
+    "condition": "props.match.params.nonce"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Register Box",
+  "parent": "tep25VLo",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "91THeetT",
+  "value": "div",
+  "values": {
+    "class": "theme.registerBox"
+  }
+}

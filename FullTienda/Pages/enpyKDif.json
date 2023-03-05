@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "name": "Login Area",
+  "parent": "tep25VLo",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "enpyKDif",
+  "value": "div",
+  "values": {
+    "class": "theme.right"
+  }
+}

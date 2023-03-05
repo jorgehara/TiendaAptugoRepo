@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "recoverSuccess",
+  "parent": "lHv5ir0L",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MJ1EFdLQ",
+  "value": "useState",
+  "values": {
+    "variableName": "recoverSuccess",
+    "defaultValue": "null"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "collapseStatus": "expand",
+  "name": "condition",
+  "parent": "MQht1NVH",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "UJuPVmgv",
+  "value": "condition",
+  "values": {
+    "condition": "currentUser"
+  }
+}

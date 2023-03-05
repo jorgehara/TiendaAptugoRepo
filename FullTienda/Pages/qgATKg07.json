@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "userData",
+  "parent": "4PoQQnTO",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qgATKg07",
+  "value": "useState",
+  "values": {
+    "variableName": "userData",
+    "defaultValue": "{ _id: null, Password: '' }"
+  }
+}

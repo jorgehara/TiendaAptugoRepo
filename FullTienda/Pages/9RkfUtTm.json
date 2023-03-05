@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "u91xpnb1",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9RkfUtTm",
+  "value": "image",
+  "values": {
+    "width": "50",
+    "height": "50",
+    "alt": "logoInstagram",
+    "useAsset": "wwfkixET"
+  }
+}

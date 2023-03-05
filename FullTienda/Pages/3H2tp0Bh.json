@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "image",
+  "parent": "mAsqL9Ed",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3H2tp0Bh",
+  "value": "image",
+  "values": {
+    "useAsset": "eloFIv6c",
+    "webppath": "theme.carouselImagen"
+  }
+}

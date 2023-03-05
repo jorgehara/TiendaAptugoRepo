@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "enpyKDif",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "P4nMIhDA",
+  "value": "text",
+  "values": {
+    "Content": "Have an account? "
+  }
+}

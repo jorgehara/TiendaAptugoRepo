@@ -1,0 +1,10 @@
+{
+  "collapseStatus": "collapse",
+  "filename": "forgot.tsx",
+  "name": "Retrieve Password",
+  "parent": "du7bisGG",
+  "path": "/forgot/:nonce?/:email?",
+  "priority": 5,
+  "type": "page",
+  "unique_id": "JyvH8bkb"
+}

@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Submit",
+  "parent": "91THeetT",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MJ6dUuPi",
+  "value": "button",
+  "values": {
+    "ButtonText": "Register",
+    "Variant": "contained",
+    "Color": "primary",
+    "fullWidth": false,
+    "Action": "handleRegister"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "saveToRedux",
+  "parent": "rwbFaleb",
+  "path": "saveToRedux.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sx4osCgd",
+  "value": "saveToRedux",
+  "values": {
+    "data": "PBqamNmS"
+  }
+}

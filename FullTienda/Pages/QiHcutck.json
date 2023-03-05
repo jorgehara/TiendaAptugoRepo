@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "r5vykKAW",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "QiHcutck",
+  "value": "text",
+  "values": {
+    "Content": "Logout"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "EmB14P3G",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BKF4aMv8",
+  "value": "text",
+  "values": {
+    "Content": "Sign In"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "handleLogin",
+  "parent": "pVUDDrxz",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "HoalO0Ez",
+  "value": "function",
+  "values": {
+    "functionName": "handleLogin",
+    "functionBody": "AuthService.login(loginData.Email, loginData.Password).then(\n      (res) => {\n        console.log(res)\n        props.history.push('/')\n      },\n      (error) => {\n        setloginError(error.response.data.message)\n      }\n    )"
+  }
+}

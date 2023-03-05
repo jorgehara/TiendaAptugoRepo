@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "uncontrolledInput",
+  "parent": "8ldp553w",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "z5W9cNzV",
+  "value": "uncontrolledInput",
+  "values": {
+    "variant": "outlined",
+    "label": "Password",
+    "margin": "normal",
+    "onChange": "(e) => { setloginData({ ...loginData, Password: e.target.value }) }",
+    "value": "{loginData.Password}",
+    "type": "password"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "KpvGGvut",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GAkAm8qE",
+  "value": "text",
+  "values": {
+    "Content": "Set your new password in the field below"
+  }
+}

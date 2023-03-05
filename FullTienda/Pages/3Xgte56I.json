@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "userEmail",
+  "parent": "lHv5ir0L",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3Xgte56I",
+  "value": "useState",
+  "values": {
+    "variableName": "userEmail",
+    "defaultValue": "''"
+  }
+}

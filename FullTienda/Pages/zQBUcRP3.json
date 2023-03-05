@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Page Header",
+  "parent": "TmGRuKet",
+  "path": "ph.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "zQBUcRP3",
+  "value": "ph",
+  "values": {
+    "localStyles": "mainPanel: {     [\"@media (min-width:960px)\"]: {       backgroundColor: \"#56baec\",       width: \"100%\",       flexGrow: 1,     },   },   loginHolder: { margin: \"5rem auto 0\", width: \"30vw\", textAlign: \"center\" },   loginArea: {     position: \"relative\",     background: \"white\",     padding: \"4rem 3rem 2rem\",     borderRadius: \"0.5rem\",     marginBottom: \"1rem\",     boxSizing: \"border-box\",     boxShadow: \"0px 3px 20px 5px #00000030\",   },   loginTitle: {     textTransform: \"uppercase\",     fontSize: \"1.2rem\",     letterSpacing: \"0.1rem\",     color: \"#3084af\",   },   image: {     width: \"5rem\",     position: \"absolute\",     top: \"-2.5rem\",     left: \"calc(15vw - (2.5rem + 2.5px))\",     border: \"5px solid white\",     borderRadius: \"5rem\",   },"
+  }
+}

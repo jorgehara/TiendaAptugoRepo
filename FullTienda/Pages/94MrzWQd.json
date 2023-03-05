@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Password",
+  "parent": "91THeetT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "94MrzWQd",
+  "value": "field",
+  "values": {
+    "variant": "outlined",
+    "margin": "normal",
+    "Field": "BnKer37c",
+    "Type": "edit"
+  }
+}

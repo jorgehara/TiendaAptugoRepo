@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "IXW00QiC",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "THrDRJaW",
+  "value": "text",
+  "values": {
+    "Content": "Click here to reset your password"
+  }
+}

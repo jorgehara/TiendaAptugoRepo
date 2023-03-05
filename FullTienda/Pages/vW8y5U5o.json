@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Define usersData",
+  "parent": "dXSrABih",
+  "path": "defineVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vW8y5U5o",
+  "value": "defineVariable",
+  "values": {
+    "variableName": "usersData",
+    "variableValue": "useSelector((state: IState) => state.users)"
+  }
+}

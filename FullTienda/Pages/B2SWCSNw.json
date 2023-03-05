@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "5pGdbP2s",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "B2SWCSNw",
+  "value": "image",
+  "values": {
+    "width": "50",
+    "height": "50",
+    "alt": "logoFacebook",
+    "useAsset": "dA2ulTNq"
+  }
+}

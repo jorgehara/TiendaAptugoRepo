@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "alertMessage",
+  "parent": "sxNxPKLW",
+  "path": "alertMessage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0NMenVhG",
+  "value": "alertMessage",
+  "values": {
+    "severity": "error",
+    "variant": "standard",
+    "title": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Login Box",
+  "parent": "TGFf8nc9",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8ldp553w",
+  "value": "div",
+  "values": {
+    "class": "theme.loginBox"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "uncontrolledInput",
+  "parent": "8ldp553w",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "QaHEURkk",
+  "value": "uncontrolledInput",
+  "values": {
+    "variant": "outlined",
+    "label": "Email",
+    "placeholder": "Email Address",
+    "margin": "normal",
+    "onChange": "(e) => { setloginData({ ...loginData, Email: e.target.value }) }",
+    "value": "{loginData.Email}"
+  }
+}

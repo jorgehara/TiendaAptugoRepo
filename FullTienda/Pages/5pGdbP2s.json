@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "simpleLink",
+  "parent": "m29qedBT",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5pGdbP2s",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "https://es-la.facebook.com/",
+    "target": "_self"
+  }
+}

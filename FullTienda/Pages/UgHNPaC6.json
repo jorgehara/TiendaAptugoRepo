@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "name": "Heading",
+  "parent": "91THeetT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "UgHNPaC6",
+  "value": "div",
+  "values": {
+    "class": "theme.headingRegister"
+  }
+}

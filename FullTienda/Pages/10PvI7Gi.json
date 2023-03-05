@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "2u7yKZho",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "10PvI7Gi",
+  "value": "text",
+  "values": {
+    "Content": " Register!"
+  }
+}

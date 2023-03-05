@@ -5,10 +5,11 @@
   "parent": "OgbBOk4h",
   "path": "div.tpl",
   "prevent_delete": false,
+  "sourceType": "javascript",
   "type": "element",
   "unique_id": "WXUC6Lo2",
   "value": "div",
   "values": {
-    "class": "theme.mainarea"
+    "class": "theme.mainArea"
   }
 }

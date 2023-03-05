@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Before Page Render",
+  "parent": "N68NTDKq",
+  "path": "bpr.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "0odh2SNe",
+  "value": "bpr"
+}

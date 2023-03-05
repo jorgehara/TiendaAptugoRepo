@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "simpleLink",
+  "parent": "enpyKDif",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "bASMTGB2",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "/Login"
+  }
+}

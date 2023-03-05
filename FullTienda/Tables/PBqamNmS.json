@@ -1,0 +1,120 @@
+{
+  "beforeCreate": "",
+  "beforeUpdate": "const response = userService.jwtVerify(req.headers.authorization)\nif (response.error) res.status(401).json(response)\n",
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/users",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/users/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/users/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/users",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/users/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/users/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    },
+    {
+      "route_method": "post",
+      "route_template": "source",
+      "route_active": true,
+      "route_name": "Send Nonce",
+      "route_path": "/api/users/recoverpassword",
+      "route_code": "userService\n      .recoverPassword(req)\n      .then((user) => {\n        res.json('ok')\n      })\n      .catch((next) => {\n        res.statusCode = 401\n        res.json(next)\n      })"
+    },
+    {
+      "route_method": "post",
+      "route_template": "source",
+      "route_active": true,
+      "route_name": "Check Nonce",
+      "route_path": "/api/users/checknonce",
+      "route_code": "userService\n      .checkNonce(req)\n      .then((user) => {\n        res.json(user)\n      })\n      .catch((next) => {\n        res.statusCode = 500\n        res.json(next)\n      })"
+    }
+  ],
+  "extraModules": "const userService = require('../services/users.service')",
+  "extraRoutes": "// Authenticate User\n  app.post('/api/users/authenticate', function (req, res) {\n    userService\n      .authenticate(req.body)\n      .then((user) => {\n        res.json(user)\n      })\n      .catch((next) => {\n        res.statusCode = 401\n        res.json(next)\n        \n      })\n  })",
+  "fields": [
+    {
+      "column_name": "FirstName",
+      "data_type": "String",
+      "displaylabel": "First Name",
+      "prompt": "First Name",
+      "unique_id": "JB40kCob"
+    },
+    {
+      "column_name": "LastName",
+      "data_type": "String",
+      "displaylabel": "Last Name",
+      "prompt": "Last Name",
+      "unique_id": "XOPKLDib"
+    },
+    {
+      "column_name": "Email",
+      "data_type": "String",
+      "displaylabel": "Email",
+      "prompt": "Email",
+      "unique_id": "wTdSvKhG"
+    },
+    {
+      "column_name": "Password",
+      "data_type": "Password",
+      "unique_id": "BnKer37c"
+    },
+    {
+      "column_name": "ProfilePic",
+      "data_type": "Image",
+      "displaylabel": "Profile Picture",
+      "prompt": "Profile Picture",
+      "unique_id": "vKF59Ny7"
+    },
+    {
+      "column_name": "Role",
+      "data_type": "Dropdown",
+      "options": "User;Admin",
+      "unique_id": "2eh7p9aq"
+    }
+  ],
+  "name": "Users",
+  "singleName": "Usersrecord",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "PBqamNmS",
+  "x": 187,
+  "y": 77
+}

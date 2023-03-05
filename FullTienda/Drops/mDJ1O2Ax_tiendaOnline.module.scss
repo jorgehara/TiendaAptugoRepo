@@ -1,0 +1,29 @@
+// Asset created by Aptugo
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.mainArea{
+    & .title{
+        display: flex;
+        justify-content: center;
+        & h1 {
+            color: aqua;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 3rem;
+            font-weight: 800;
+        }
+    }
+}
+
+
+.containerFooter{
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    height: 250px;
+    border-top: 2px solid rgb(150,125,255);
+    
+}

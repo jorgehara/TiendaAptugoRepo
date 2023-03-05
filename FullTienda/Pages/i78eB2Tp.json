@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "rrssWhatsapp",
+  "parent": "nGAVHFkC",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "i78eB2Tp",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.rrss"
+  }
+}

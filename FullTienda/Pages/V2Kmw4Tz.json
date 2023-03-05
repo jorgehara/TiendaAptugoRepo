@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "uncontrolledInput",
+  "parent": "pi4M2xt8",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "V2Kmw4Tz",
+  "value": "uncontrolledInput",
+  "values": {
+    "variant": "outlined",
+    "margin": "normal",
+    "type": "text",
+    "label": "Email address",
+    "onChange": "(e) => { setuserEmail(e.target.value) }",
+    "value": "{userEmail}"
+  }
+}

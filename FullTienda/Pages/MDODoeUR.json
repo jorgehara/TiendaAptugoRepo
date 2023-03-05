@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "code",
+  "parent": "nvtBNWWL",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MDODoeUR",
+  "value": "code",
+  "values": {
+    "code": "import { addUsers } from '../store/actions/usersActions'"
+  }
+}

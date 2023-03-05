@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "simpleLink",
+  "parent": "i78eB2Tp",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "tUCsz6Tt",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "https://www.instagram.com/",
+    "target": "_self"
+  }
+}

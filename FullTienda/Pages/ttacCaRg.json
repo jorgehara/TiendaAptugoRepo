@@ -1,0 +1,15 @@
+{
+  "cascades": true,
+  "collapseStatus": "expand",
+  "name": "useState",
+  "parent": "OO0D4XW6",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ttacCaRg",
+  "value": "useState",
+  "values": {
+    "defaultValue": "AuthService.getCurrentUser()",
+    "variableName": "currentUser"
+  }
+}

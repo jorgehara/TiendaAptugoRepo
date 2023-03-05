@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "NaJIraVx",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "rVZoR2KM",
+  "value": "text",
+  "values": {
+    "Content": "TiendaOnline",
+    "className": "theme.title"
+  }
+}

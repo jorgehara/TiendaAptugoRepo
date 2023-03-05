@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Container",
+  "parent": "ZXyPBTUp",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zKiDliRh",
+  "value": "Container",
+  "values": {
+    "className": "theme.loginPage",
+    "maxWidth": "md"
+  }
+}

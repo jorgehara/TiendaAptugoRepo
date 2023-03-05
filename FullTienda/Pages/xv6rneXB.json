@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "name": "After Page Render",
+  "parent": "TmGRuKet",
+  "path": "apr.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "xv6rneXB",
+  "value": "apr"
+}

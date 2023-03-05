@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "CNRV30lP",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "SP81rhQq",
+  "value": "text",
+  "values": {
+    "Content": "{currentUser.FirstName} {currentUser.LastName}"
+  }
+}

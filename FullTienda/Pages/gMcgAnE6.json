@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "AuthService",
+  "parent": "nvtBNWWL",
+  "path": "import.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gMcgAnE6",
+  "value": "import",
+  "values": {
+    "moduleName": "AuthService",
+    "modulePath": "../services/auth.service"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "rrssInstagram",
+  "parent": "nGAVHFkC",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "LLw92yp1",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.rrss"
+  }
+}

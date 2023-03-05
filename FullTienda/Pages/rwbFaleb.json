@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "handleRegister",
+  "parent": "dXSrABih",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rwbFaleb",
+  "value": "function",
+  "values": {
+    "functionName": "handleRegister",
+    "functionBody": "const data = { ...Usersdata, Role: 'User' }"
+  }
+}

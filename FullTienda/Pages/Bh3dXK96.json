@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "sc8LNZOn",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Bh3dXK96",
+  "value": "text",
+  "values": {
+    "Content": "Please enter the email address associated with your account and we will email you a link to reset your password"
+  }
+}

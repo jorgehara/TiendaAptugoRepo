@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Email",
+  "parent": "91THeetT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1i39Azhc",
+  "value": "field",
+  "values": {
+    "Field": "wTdSvKhG",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined"
+  }
+}

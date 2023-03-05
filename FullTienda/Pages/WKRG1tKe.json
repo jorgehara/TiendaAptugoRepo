@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "FirstName",
+  "parent": "91THeetT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WKRG1tKe",
+  "value": "field",
+  "values": {
+    "margin": "normal",
+    "Field": "JB40kCob",
+    "Type": "edit",
+    "variant": "outlined"
+  }
+}

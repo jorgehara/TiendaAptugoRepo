@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "section3",
+  "parent": "WXUC6Lo2",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "gTw54bad",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.section3"
+  }
+}

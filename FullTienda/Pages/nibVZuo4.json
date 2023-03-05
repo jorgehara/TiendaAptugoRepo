@@ -1,6 +1,6 @@
 {
-  "cascades": false,
-  "collapseStatus": "collapse",
+  "cascades": true,
+  "collapseStatus": "expand",
   "name": "Page Footer",
   "parent": "uzHWpD7T",
   "path": "pf.tpl",

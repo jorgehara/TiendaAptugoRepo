@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "alertMessage",
+  "parent": "XTzyzziw",
+  "path": "alertMessage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "OaXal48W",
+  "value": "alertMessage",
+  "values": {
+    "variant": "standard",
+    "severity": "success"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "simpleLink",
+  "parent": "3QH2NDys",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "9NcpL1ZA",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/",
+    "tagToUse": "NavLink"
+  }
+}

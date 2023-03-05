@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Submit",
+  "parent": "8ldp553w",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "iZIF1AW5",
+  "value": "button",
+  "values": {
+    "ButtonText": "Login",
+    "Variant": "contained",
+    "Color": "primary",
+    "fullWidth": false,
+    "Action": "handleLogin"
+  }
+}

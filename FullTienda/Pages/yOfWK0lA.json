@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "sendNonce",
+  "parent": "lHv5ir0L",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "yOfWK0lA",
+  "value": "function",
+  "values": {
+    "functionName": "sendNonce",
+    "functionBody": "setrecoverSuccess(null)\n    setrecoverError(null)\n    AuthService.recoverPassword({ email: userEmail, subject: 'Password recovery', message: InlineLink(), name: 'pedro corica' }).then(\n      (res) => {\n        setrecoverSuccess(`Email sent to ${userEmail}`)\n      },\n      (error) => {\n        setrecoverError(error.response.data.message)\n      }\n    )"
+  }
+}

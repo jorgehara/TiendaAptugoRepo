@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Email Content",
+  "parent": "h0fhhOSk",
+  "path": "emailContent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DJLuUS7C",
+  "value": "emailContent"
+}

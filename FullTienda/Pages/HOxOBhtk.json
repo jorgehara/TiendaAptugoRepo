@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "mAsqL9Ed",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "HOxOBhtk",
+  "value": "image",
+  "values": {
+    "useAsset": "TcSadbvq",
+    "className": "theme.carouselImagen"
+  }
+}

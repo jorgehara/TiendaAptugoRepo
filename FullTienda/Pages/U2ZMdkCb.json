@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Link",
+  "parent": "unO0gvQd",
+  "path": "Link.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "U2ZMdkCb",
+  "value": "Link",
+  "values": {
+    "innerText": " Login",
+    "destination": "/Login"
+  }
+}

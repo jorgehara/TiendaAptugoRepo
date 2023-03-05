@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "alertMessage",
+  "parent": "IdRyF1TE",
+  "path": "alertMessage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "poBJRWDg",
+  "value": "alertMessage",
+  "values": {
+    "severity": "error"
+  }
+}

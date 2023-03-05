@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Recover Success!",
+  "parent": "pi4M2xt8",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "XTzyzziw",
+  "value": "condition",
+  "values": {
+    "condition": "recoverSuccess"
+  }
+}

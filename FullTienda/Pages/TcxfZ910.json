@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "watchVariable",
+  "parent": "4PoQQnTO",
+  "path": "watchVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TcxfZ910",
+  "value": "watchVariable",
+  "values": {
+    "watchVariable": "props.match.params.nonce"
+  }
+}

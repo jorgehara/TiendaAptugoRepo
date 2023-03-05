@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Profile Picture",
+  "parent": "91THeetT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "kbnTDeb3",
+  "value": "field",
+  "values": {
+    "Field": "vKF59Ny7",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined"
+  }
+}

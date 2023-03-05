@@ -1,6 +1,6 @@
 {
   "cascades": false,
-  "collapseStatus": "collapse",
+  "collapseStatus": "expand",
   "name": "After Page Render",
   "parent": "uzHWpD7T",
   "path": "apr.tpl",

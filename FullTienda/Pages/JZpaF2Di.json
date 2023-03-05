@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "IconButton",
+  "parent": "urKat4Bm",
+  "path": "IconButton.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JZpaF2Di",
+  "value": "IconButton",
+  "values": {
+    "className": "theme.profilePicture",
+    "Action": "(event) => { setprofileMenuAnchor(event.currentTarget) }"
+  }
+}

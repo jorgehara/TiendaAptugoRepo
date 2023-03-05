@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "text",
+  "parent": "xmmmNDJJ",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "EFKP7NAu",
+  "value": "text",
+  "values": {
+    "Content": "If you requested a password reset, use the link below to complete the process. If you didn't make this request, ignore this email.\n"
+  }
+}

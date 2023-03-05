@@ -1,0 +1,22 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "ReactCarousel",
+  "parent": "kiZkMme2",
+  "path": "ReactCarousel.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"react-material-ui-carousel\": \"^3.2.0\","
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "mAsqL9Ed",
+  "value": "ReactCarousel",
+  "values": {
+    "ClassName": "theme.carousel",
+    "autoplay": true
+  }
+}

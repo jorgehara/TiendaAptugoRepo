@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "loginError Message",
+  "parent": "8ldp553w",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sxNxPKLW",
+  "value": "condition",
+  "values": {
+    "condition": "loginError"
+  }
+}

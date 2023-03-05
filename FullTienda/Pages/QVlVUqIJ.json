@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "typography",
+  "parent": "7fqqM4HU",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "QVlVUqIJ",
+  "value": "typography",
+  "values": {
+    "tag": "body1"
+  }
+}

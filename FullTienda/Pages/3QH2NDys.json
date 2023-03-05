@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "logo",
+  "parent": "nGAVHFkC",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "3QH2NDys",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.footerLogo"
+  }
+}

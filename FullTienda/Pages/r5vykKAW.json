@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "MenuItem",
+  "parent": "yqNCiDCm",
+  "path": "MenuItem.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "r5vykKAW",
+  "value": "MenuItem",
+  "values": {
+    "onclick": "(params) => { AuthService.logout(); props.history.push('/') }"
+  }
+}
