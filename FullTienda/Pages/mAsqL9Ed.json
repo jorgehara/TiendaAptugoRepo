@@ -17,6 +17,9 @@
   "value": "ReactCarousel",
   "values": {
     "ClassName": "theme.carousel",
-    "autoplay": true
+    "autoplay": true,
+    "sx": "1900",
+    "Height": "500",
+    "navButtonsAlwaysVisible": true
   }
 }

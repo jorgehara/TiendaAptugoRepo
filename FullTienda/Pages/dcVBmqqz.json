@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "EbA0S8XB",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "dcVBmqqz",
+  "value": "text",
+  "values": {
+    "Content": "aca va el reel de productos "
+  }
+}
