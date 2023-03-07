@@ -1,0 +1,22 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "dialog",
+  "parent": "mipxTMTV",
+  "path": "dialog.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "dxIPO8c1",
+  "value": "dialog",
+  "values": {
+    "addProcedure": "Internal",
+    "title": "() => { return \"Add \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"IHQCAXrw\").singleName }",
+    "introText": "() => { return \"Enter \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"IHQCAXrw\").singleName + \" data\" }",
+    "color": "primary",
+    "table": "IHQCAXrw",
+    "button": "Add",
+    "editButton": "Edit",
+    "editTitle": "() => { return \"Edit \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"IHQCAXrw\").singleName }",
+    "editIntroText": "() => { return \"Update \" + aptugo.store.getState().application.tables.find(table => table.unique_id === \"IHQCAXrw\").singleName + \" data\" }"
+  }
+}

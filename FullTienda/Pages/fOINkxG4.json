@@ -1,14 +1,14 @@
 {
   "cascades": false,
-  "name": "Text Content",
-  "parent": "EbA0S8XB",
+  "name": "text",
+  "parent": "fFOtipVN",
   "path": "text.tpl",
   "prevent_delete": false,
   "sourceType": "javascript",
   "type": "element",
-  "unique_id": "dcVBmqqz",
+  "unique_id": "fOINkxG4",
   "value": "text",
   "values": {
-    "Content": "Todos Nuestros Productos disponibles "
+    "Content": "{allProducts.price}"
   }
 }

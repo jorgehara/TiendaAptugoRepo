@@ -1,16 +1,14 @@
 {
   "cascades": false,
   "collapseStatus": "expand",
-  "name": "div",
-  "parent": "TyHoIKq7",
+  "name": "Table Area",
+  "parent": "XqhMLeAU",
   "path": "div.tpl",
   "prevent_delete": false,
-  "sourceType": "javascript",
   "type": "element",
-  "unique_id": "TWJcVTAn",
+  "unique_id": "7axD6tlk",
   "value": "div",
   "values": {
-    "tag": "div",
-    "class": "theme.titulo"
+    "class": "classes.tableResponsive"
   }
 }

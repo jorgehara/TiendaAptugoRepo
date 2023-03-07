@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Product Card Media",
+  "parent": "mTBwq9nF",
+  "path": "productCardMedia.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "aLnIBss5",
+  "value": "productCardMedia",
+  "values": {
+    "path": "{allProducts.images}",
+    "width": "450",
+    "height": "450"
+  }
+}

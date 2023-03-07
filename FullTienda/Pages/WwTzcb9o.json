@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "Product Card Actions",
+  "parent": "mTBwq9nF",
+  "path": "productCardActions.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WwTzcb9o",
+  "value": "productCardActions",
+  "values": {}
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Product Card Content",
+  "parent": "mTBwq9nF",
+  "path": "productCardContent.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "d5v6xMwC",
+  "value": "productCardContent",
+  "values": {
+    "price": "{allProducts.price}",
+    "discount": "{allProducts.rating}",
+    "description": "{allProducts.description}"
+  }
+}

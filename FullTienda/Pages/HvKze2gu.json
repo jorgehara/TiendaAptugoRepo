@@ -8,7 +8,9 @@
   "unique_id": "HvKze2gu",
   "value": "image",
   "values": {
-    "useAsset": "qAFXHT4n",
-    "className": "theme.carouselImage"
+    "useAsset": "5QEsAvJD",
+    "className": "theme.carouselImage",
+    "width": "",
+    "height": ""
   }
 }

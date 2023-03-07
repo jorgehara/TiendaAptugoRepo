@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Product Card Header",
+  "parent": "mTBwq9nF",
+  "path": "productCardHeader.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "UisIciwA",
+  "value": "productCardHeader",
+  "values": {
+    "title": "{allProducts.title}"
+  }
+}

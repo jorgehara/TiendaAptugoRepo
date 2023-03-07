@@ -1,0 +1,113 @@
+{
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "data_type": "String",
+      "column_name": "title",
+      "unique_id": "TqmhvuUM"
+    },
+    {
+      "data_type": "MultilineString",
+      "column_name": "description",
+      "unique_id": "ZxG4rgpP"
+    },
+    {
+      "data_type": "String",
+      "column_name": "price",
+      "unique_id": "qXCQdTbE"
+    },
+    {
+      "data_type": "String",
+      "column_name": "discountPercentage",
+      "unique_id": "EwXAD3Mk"
+    },
+    {
+      "data_type": "Rating",
+      "column_name": "rating",
+      "unique_id": "UPP5dF8U"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "stock",
+      "unique_id": "LkkT41W4"
+    },
+    {
+      "data_type": "String",
+      "column_name": "brand",
+      "unique_id": "RZ9KvRKK"
+    },
+    {
+      "data_type": "String",
+      "column_name": "category",
+      "unique_id": "A68kHdxE"
+    },
+    {
+      "data_type": "Url",
+      "column_name": "thumbnail",
+      "unique_id": "5JLHmZ9H"
+    },
+    {
+      "data_type": "Image",
+      "column_name": "images",
+      "unique_id": "ApWTW9WA"
+    }
+  ],
+  "name": "Products",
+  "pathtodata": "products",
+  "singleName": "Product",
+  "source": "https://dummyjson.com/products",
+  "subtype": "Api",
+  "type": "table",
+  "unique_id": "IHQCAXrw",
+  "x": 390,
+  "y": 84
+}

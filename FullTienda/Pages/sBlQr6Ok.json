@@ -1,14 +1,13 @@
 {
   "cascades": false,
   "name": "image",
-  "parent": "mAsqL9Ed",
+  "parent": "4sTpITN1",
   "path": "image.tpl",
   "prevent_delete": false,
   "type": "element",
-  "unique_id": "HOxOBhtk",
+  "unique_id": "sBlQr6Ok",
   "value": "image",
   "values": {
-    "useAsset": "nqxh2biL",
-    "className": "theme.carouselImagen"
+    "path": "{allProducts.images}"
   }
 }

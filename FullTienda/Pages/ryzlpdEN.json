@@ -7,10 +7,9 @@
   "prevent_delete": false,
   "sourceType": "javascript",
   "type": "element",
-  "unique_id": "TWJcVTAn",
+  "unique_id": "ryzlpdEN",
   "value": "div",
   "values": {
-    "tag": "div",
-    "class": "theme.titulo"
+    "tag": "div"
   }
 }

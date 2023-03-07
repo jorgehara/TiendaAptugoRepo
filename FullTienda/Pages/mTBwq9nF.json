@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "productCard",
+  "parent": "2lgw8Dny",
+  "path": "productCard.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "mTBwq9nF",
+  "value": "productCard",
+  "values": {}
+}
