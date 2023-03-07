@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "code",
+  "parent": "EQ1OFKVy",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "xibDVBR2",
+  "value": "code",
+  "values": {
+    "code": "console.log(\"products\", result.data.products)"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "performApiCall",
+  "parent": "34iDXU51",
+  "path": "performApiCall.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "EQ1OFKVy",
+  "value": "performApiCall",
+  "values": {
+    "url": "\"https://dummyjson.com/products\"",
+    "method": "get",
+    "dataVariable": ""
+  }
+}

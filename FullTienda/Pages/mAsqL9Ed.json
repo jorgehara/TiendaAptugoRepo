@@ -19,7 +19,7 @@
     "ClassName": "theme.carousel",
     "autoplay": true,
     "sx": "1900",
-    "Height": "500",
+    "Height": "700",
     "navButtonsAlwaysVisible": true
   }
 }
