@@ -1,6 +1,12 @@
 {
   "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
   "cascades": false,
+  "childs": [
+    {
+      "name": "Text Content",
+      "element": "text"
+    }
+  ],
   "collapseStatus": "expand",
   "name": "typography",
   "originalName": "typography",
@@ -10,5 +16,7 @@
   "type": "element",
   "unique_id": "5WfJJ6Xu",
   "value": "typography",
-  "values": {}
+  "values": {
+    "tag": "h2"
+  }
 }

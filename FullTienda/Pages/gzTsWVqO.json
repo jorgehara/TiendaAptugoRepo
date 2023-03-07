@@ -10,6 +10,8 @@
   "value": "image",
   "values": {
     "useAsset": "WJWIUvtH",
-    "className": "theme.carouselImagen"
+    "className": "theme.carouselImagen",
+    "width": "1900",
+    "height": "700"
   }
 }

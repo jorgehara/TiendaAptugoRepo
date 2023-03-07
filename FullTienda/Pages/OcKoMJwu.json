@@ -1,5 +1,6 @@
 {
   "cascades": false,
+  "collapseStatus": "expand",
   "name": "titleProduct",
   "parent": "31ZHgzZV",
   "path": "div.tpl",

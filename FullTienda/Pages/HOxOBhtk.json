@@ -9,6 +9,8 @@
   "value": "image",
   "values": {
     "useAsset": "G8uwQG3h",
-    "className": "theme.carouselImagen"
+    "className": "theme.carouselImagen",
+    "width": "1900",
+    "height": "700"
   }
 }
