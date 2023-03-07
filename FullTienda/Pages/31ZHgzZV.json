@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "loop",
+  "parent": "omkp9qVg",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "31ZHgzZV",
+  "value": "loop",
+  "values": {
+    "variablename": "item",
+    "variable": "products"
+  }
+}

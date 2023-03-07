@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "To8pqRzZ",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "cIKmmI7K",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

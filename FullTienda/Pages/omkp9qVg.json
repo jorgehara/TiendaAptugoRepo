@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "div",
+  "parent": "TyHoIKq7",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "omkp9qVg",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

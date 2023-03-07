@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "products",
+  "parent": "JM2bbUU0",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "tHeZmsi0",
+  "value": "useState",
+  "values": {
+    "variableName": "products",
+    "defaultValue": "[]"
+  }
+}

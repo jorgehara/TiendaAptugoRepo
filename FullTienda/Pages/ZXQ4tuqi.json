@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "57PdSpL1",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "ZXQ4tuqi",
+  "value": "text",
+  "values": {
+    "Content": "{item.description}"
+  }
+}

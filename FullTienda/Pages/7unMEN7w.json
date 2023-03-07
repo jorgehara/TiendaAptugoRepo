@@ -10,13 +10,13 @@
   "collapseStatus": "expand",
   "name": "typography",
   "originalName": "typography",
-  "parent": "TWJcVTAn",
+  "parent": "E01Ckoir",
   "path": "typography.tpl",
   "prevent_delete": false,
   "type": "element",
-  "unique_id": "EbA0S8XB",
+  "unique_id": "7unMEN7w",
   "value": "typography",
   "values": {
-    "tag": "h4"
+    "tag": "h3"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "title",
+  "parent": "5WfJJ6Xu",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "p8fBwAoM",
+  "value": "text",
+  "values": {
+    "Content": "{item.title}"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "data",
+  "parent": "EQ1OFKVy",
+  "path": "defineVariable.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "ServerAddenum",
+      "value": "{% if element.values.serverSide %}\n  {% if element.values.willbeModified %}let{% else %}const{% endif %} {{ element.values.variableName }} = {{ element.values.variableValue|default(content | raw)}}\n{% endif %}"
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Z6dTKDyk",
+  "value": "defineVariable",
+  "values": {
+    "variableName": "data",
+    "variableValue": "result.data.products"
+  }
+}

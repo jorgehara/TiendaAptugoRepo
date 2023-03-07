@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "descriptionProduct",
+  "parent": "31ZHgzZV",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "57PdSpL1",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

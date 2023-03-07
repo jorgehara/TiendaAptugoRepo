@@ -1,5 +1,6 @@
 {
   "cascades": false,
+  "collapseStatus": "expand",
   "name": "code",
   "parent": "EQ1OFKVy",
   "path": "code.tpl",
@@ -9,6 +10,6 @@
   "unique_id": "xibDVBR2",
   "value": "code",
   "values": {
-    "code": "console.log(\"products\", result.data.products)"
+    "code": "console.log(\"products\", result.data.products)\r\nsetproducts(result.data.products)\r\n"
   }
 }

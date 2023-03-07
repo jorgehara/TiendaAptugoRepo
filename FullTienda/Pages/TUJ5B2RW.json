@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "ThumbailProduct",
+  "parent": "31ZHgzZV",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "TUJ5B2RW",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

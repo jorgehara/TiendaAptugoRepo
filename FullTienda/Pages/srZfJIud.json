@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "TUJ5B2RW",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "srZfJIud",
+  "value": "image",
+  "values": {
+    "path": "{item?.thumbnail}",
+    "width": "100",
+    "height": "100",
+    "webppath": "",
+    "useAsset": "none"
+  }
+}

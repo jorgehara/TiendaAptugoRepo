@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "7unMEN7w",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "OUr0btbm",
+  "value": "text",
+  "values": {
+    "Content": ""
+  }
+}

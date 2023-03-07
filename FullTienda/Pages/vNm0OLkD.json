@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "imageChica",
+  "parent": "57PdSpL1",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vNm0OLkD",
+  "value": "image",
+  "values": {
+    "path": "{products.thumbnail}"
+  }
+}
